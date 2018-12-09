@@ -1,7 +1,7 @@
 # reactboiler
 Because React is fun and boiler-plate code isn't.
 
-Let's be real, boiler-plate code sucks. That's why I created ***reactboiler***. It's very a simple command line utility that will speed up React development a bit, and save you some keystrokes.
+Let's be real, boiler-plate code sucks. That's why I created ***reactboiler***. It's a very simple command line utility that will speed up React development a bit, and save you some keystrokes.
 
 **Command line options supported:**
 
@@ -15,10 +15,14 @@ Let's be real, boiler-plate code sucks. That's why I created ***reactboiler***. 
 
 `--jsx` will create a React or styled-component with a `.jsx` extension. If used with both `--class` and `--styled`, the class component will be given the `.jsx` extension
 
-**Warning:** If you dare to look under the hood, and view the source code, justs know it is far from my best work. I threw this together in about an hour and a half, and it worked, so I didn't bother changing anything. Feel free to make suggestions to improve and/or extend this CLI.
+**Warning:** If you dare to look under the hood, and view the source code, this is probably what you'll see...
+
+<img src="https://github.com/Bee-Mar/reactboiler/blob/master/screenshots/dumpster_fire.gif">
+
+I threw this together in about an hour and a half, and it worked, so I didn't bother changing anything. Feel free to make suggestions to improve and/or extend this CLI.
 
 **Installation:**
-The first target is the ***install*** target, so a simple "make" can be executed.
+The first target is the _install_ target, so a simple `make` can be executed.
 
 **Usage:** View the man page and screenshots below for more details and examples
 
