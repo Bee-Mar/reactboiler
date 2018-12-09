@@ -24,9 +24,9 @@ The first target is the ***install*** target, so a simple "make" can be executed
 
 This CLI can be used to create up to 128 new directories with React components at once.
 
-_Example Usage:_<br>
-<img src="https://github.com/Bee-Mar/reactboiler/screenshots/example_01.png">
+_Example Usage:_
+<img src="https://github.com/Bee-Mar/reactboiler/blob/master/screenshots/example_01.png">
 
-<img src="https://github.com/Bee-Mar/reactboiler/screenshots/example_02.png">
+<img src="https://github.com/Bee-Mar/reactboiler/blob/master/screenshots/example_02.png">
 
-<img src="https://github.com/Bee-Mar/reactboiler/screenshots/example_03.png">
+<img src="https://github.com/Bee-Mar/reactboiler/blob/master/screenshots/example_03.png">
