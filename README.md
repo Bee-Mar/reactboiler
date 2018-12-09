@@ -1,7 +1,7 @@
 # reactboiler
 Because React is fun and boiler-plate code isn't.
 
-Let's be real, boiler-plate code sucks. That's why I created ***reactboiler***. It's very simple command line utitlity that will speed up React development a bit, and save you some keystrokes. 
+Let's be real, boiler-plate code sucks. That's why I created ***reactboiler***. It's very simple command line utitlity that will speed up React development a bit, and save you some keystrokes.
 
 **Command line options supported:**
 
@@ -11,7 +11,7 @@ Let's be real, boiler-plate code sucks. That's why I created ***reactboiler***. 
 
 `--class` will create a template React class
 
-`--redux` will create several template files for Redux actions, action types, 
+`--redux` will create several template files for Redux actions, action types,
 
 `--jsx` will create a React or styled-component with a `.jsx` extension. If used with both `--class` and `--styled`, the class component will be given the `.jsx` extension
 
@@ -23,3 +23,10 @@ The first target is the ***install*** target, so a simple "make" can be executed
 **Usage:** View the man page and screenshots below for more details and examples
 
 This CLI can be used to create up to 128 new directories with React components at once.
+
+_Example Usage:_<br>
+<img src="https://github.com/Bee-Mar/reactboiler/screenshots/example_01.png">
+
+<img src="https://github.com/Bee-Mar/reactboiler/screenshots/example_02.png">
+
+<img src="https://github.com/Bee-Mar/reactboiler/screenshots/example_03.png">
